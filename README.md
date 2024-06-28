@@ -1,4 +1,4 @@
-# CartooniyingImage
+# Animating Image
 
 The "Cartoonify an Image" project uses Python, OpenCV, and NumPy to transform real images into cartoon-like versions. The process starts by
 reading the image and converting it to grayscale. Edge detection is performed using adaptive thresholding after applying a median blur to 
